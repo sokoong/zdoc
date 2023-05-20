@@ -144,7 +144,7 @@
 
 ## &nbsp;
 ## 5. สร้าง Playlist comment
-#### API endpoint: ```create-station-playlist-activity```
+#### API endpoint: ```create-station-playlist-comment```
 #### Method: ```POST```
 #### Payload: 
 ```
