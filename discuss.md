@@ -19,7 +19,8 @@
     schedule: {
       id: number,
       schedule_number: string,
-      schedule_date: string
+      schedule_date: string,
+      icon_path: string //ขอเพิ่ม
     },
     station: {
       id: number,
