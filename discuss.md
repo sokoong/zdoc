@@ -16,7 +16,6 @@
     icon_path: string,
     period_time_start: string,
     period_time_end: string,
-    broadcast_url: string,
     schedule: {
       id: number,
       schedule_number: string,
