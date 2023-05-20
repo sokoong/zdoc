@@ -115,12 +115,7 @@
 #### Method: ```GET```
 #### Payload: ```{id: number}``` //period id
 #### Response: 
-```
-{
-  status: "ok",
-  message: string
-}
-```
+
 
 ## &nbsp;
 ## 4. สร้าง Playlist activity
